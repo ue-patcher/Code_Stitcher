@@ -1,18 +1,19 @@
-# AI Code Stitcher v1.65
-
 ### Paste AI-generated code. It just works.
 
 Copy output from Claude, Cursor, ChatGPT, Aider or any other LLM and AI Code Stitcher intelligently applies it to the correct locations in your existing codebase.
 
+https://github.com/user-attachments/assets/8c1841ef-076d-47b7-845c-ae5b5b79975d
+
+
 ### The Anti-Agentic Approach
 
-While the industry chases increasingly autonomous AI agents, Code Stitcher is built on a simpler, more reliable philosophy:
-
+While the industry chases increasingly autonomous AI agents...
+Code Stitcher is built on a simpler, more reliable philosophy:
 ### You remain in control.
 
-AI excels at generating code. AI Code Stitcher excels at safely and precisely integrating that code into real projects — with smart elastic matching, preview, and undo capabilities.
+AI Code Stitcher excels at precisely integrating AI code output into **real** projects — with smart elastic matching, preview, and undo capabilities.
 
-No mysterious black-box changes. No waiting hours to see what an agent did. Just fast, surgical updates under your direct supervision.
+_No mysterious black-box changes. No waiting hours to see what an agent did. Just fast, surgical updates under your direct supervision._
 
 ### Key Features
 
