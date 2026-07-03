@@ -1,4 +1,3 @@
-
 # AI Code Stitcher & Stitch Viewer
 
 Welcome to **AI Code Stitcher**, the ultimate bridge between Large Language Models (like ChatGPT, Claude, or DeepSeek) and your local codebase. 
@@ -57,7 +56,7 @@ https://github.com/user-attachments/assets/8f40cc96-549b-4a6b-9294-7a8fc075eb15
 
 
 
-https://sharples3.gumroad.com/l/codestitcher for more info
+https://aicodestitcher.com for more info
 
 Please note that Windows Defender SmartScreen may flag this program/install as 'potentially dangerous'.   This is due to the tool being new and a limited install base.  We promise there is no spy/malware in this program.    
 
