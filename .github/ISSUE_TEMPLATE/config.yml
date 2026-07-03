@@ -1,0 +1,20 @@
+blank: true
+contact_email: support@aicodestitcher.com
+issue_template: custom
+issue_template_v2: bug_report
+discussion_templates:
+  - name: 💬 General Questions
+    description: Ask questions about using AI Code Stitcher
+    body: "What would you like to know?"
+  - name: 🎯 Feature Requests
+    description: Suggest new features or improvements
+    body: "What feature would you like to see?"
+  - name: 🐛 Troubleshooting
+    description: Get help with issues or errors
+    body: "What issue are you experiencing?"
+  - name: 💡 Show & Tell
+    description: Share your workflows and use cases
+    body: "How are you using AI Code Stitcher?"
+  - name: 📣 Feedback
+    description: Share feedback and suggestions
+    body: "What's working well? What could be better?"
