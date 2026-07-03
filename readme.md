@@ -15,6 +15,8 @@
 
 Simply run the installer and start stitching.
 
+https://github.com/user-attachments/assets/aefa156e-9313-47e4-8b40-2b8d2c8b3b96
+
 ---
 
 ## The Problem
