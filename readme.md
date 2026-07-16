@@ -7,13 +7,7 @@
 
 ---
 
-## Download Now
 
-### Windows (Latest Release v2.71)
-
-[Download Installer](https://github.com/ue-patcher/Code_Stitcher/releases/download/v2.71/code_stitcher_setup_v2.71.exe)
-
-Simply run the installer and start stitching.
 
 https://github.com/user-attachments/assets/aefa156e-9313-47e4-8b40-2b8d2c8b3b96
 
