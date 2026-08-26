@@ -5,8 +5,6 @@
 
 **The ultimate bridge between AI code generation and your local codebase.** Paste AI-generated code from Claude, ChatGPT, DeepSeek, Cursor, Aider, or any LLM—AI Code Stitcher intelligently applies it to the correct locations in your existing codebase.
 
-# AI Code Stitcher & Stitch Viewer
-
 ## NEW - SUPPORT FOR GDSCRIPT (GODOT) 
 
 ### MILESTONE VERSION 3 - Single block markdown, multi-file processing, chromic alignment and more! 
